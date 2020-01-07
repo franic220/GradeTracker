@@ -2,7 +2,7 @@
 
 WELCOME TO GRADETRACKER!
 
-AUTHORS: Emrah Kinay (https://github.com/simulacrumus) Jeph Francois (https://github.com/franic220) Ra'ad Sweidan (https://github.com/RS-Coder95) APPLICATION NAME: GradeTracker VERSION: 1.0
+AUTHORS: Jeph Francois (https://github.com/franic220) Emrah Kinay (https://github.com/simulacrumus) Ra'ad Sweidan (https://github.com/RS-Coder95) APPLICATION NAME: GradeTracker VERSION: 1.0
 
 This application is designed with the sole intention of improving the lives of students everywhere, regardless of their program of choice. Throughout the semester courses tend to move at a very fast paced, making it far too easy for students to become disorganized. Forgetting an assignment's due date, not knowing the value of a assignment, and not knowing one's current grade in a course are just some of the problems that this application provides solutions for.
 
